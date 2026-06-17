@@ -2,7 +2,7 @@
 
 Landing page profesional del **Centro SST**, especializado en psicología laboral, bienestar mental y seguridad en el trabajo.
 
-🌐 **Sitio en vivo:** https://thankful-tree-0700fe80f.7.azurestaticapps.net
+🌐 **Sitio en vivo:** 
 
 ---
 
